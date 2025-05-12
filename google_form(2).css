@@ -1,0 +1,12 @@
+#head{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+    color: orange;
+}
+#box{
+    font-size:15px;
+    color:brown;
+    text-align: center;
+    text-transform: uppercase;
+}
